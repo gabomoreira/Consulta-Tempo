@@ -1,7 +1,7 @@
 # Consulta Tempo
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/gabomoreira/Consulta-Tempo?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/counter/gabomoreira/Consulta-Tempo?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/gabomoreira/Consulta-Tempo?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/gabomoreira/Consulta-Tempo?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/gabomoreira/Consulta-Tempo?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/gabomoreira/Consulta-Tempo?style=for-the-badge)
